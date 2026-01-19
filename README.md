@@ -44,6 +44,10 @@ El programa:
 pip install numpy matplotlib networkx scikit-learn scipy
 python main.py
 ```
+o también puedes instalar las librerías de esta manera en el terminal: 
+
+python -m pip install numpy matplotlib networkx scipy scikit-learn
+
 
 ---
 
