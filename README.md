@@ -40,7 +40,7 @@ El programa:
 
 ## Cómo ejecutar
 
-```bash
+```en la terminal añadir los siguientes comandos:
 pip install numpy matplotlib networkx scikit-learn scipy
 python main.py
 ```
