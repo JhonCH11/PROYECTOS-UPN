@@ -5,7 +5,7 @@ from scipy.spatial import distance
 from sklearn.cluster import KMeans
 
 # 1. Configuración inicial
-centro = np.array([-14.814404703595391, -71.32839434748219])  # Coordenada central
+centro = np.array([-14.814404703595391, -71.32839434748219]) # Coordenada central
 num_familias = 284
 radio_dispersion = 0.02  # ~2.2 km alrededor del centro (en grados decimales)
 
