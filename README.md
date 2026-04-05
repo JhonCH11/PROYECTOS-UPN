@@ -1,59 +1,47 @@
-# PROYECTOS-UPN
+# 👋 Hola, soy Jhon Anibal Chavez Hancco
 
-# Red Eléctrica Óptima – Python
-
-## ¿Qué hace este proyecto?
-
-Este proyecto simula la **conexión eléctrica óptima** entre una **central eléctrica** y **284 familias** usando Python.
-
-El programa:
-
-* Genera ubicaciones geográficas simuladas alrededor de una central
-* Calcula la distancia entre todos los puntos
-* Encuentra la forma más corta de conectar a todos usando un **Árbol de Expansión Mínima (MST)**
-* Agrupa las familias en **clusters** para análisis geográfico
-* Muestra un gráfico con la red resultante
-* Calcula la longitud total del cable y su costo aproximado
+🎓 Estudiante de Ingeniería de Sistemas (5to ciclo)  
+💻 Interesado en Data Engineering, Python y Bases de Datos  
+📍 Perú  
 
 ---
 
-## ¿Cómo funciona?
+## 🚀 Sobre mí
 
-1. Se define una coordenada central
-2. Se generan coordenadas aleatorias para las familias
-3. Se crea un grafo donde los nodos son familias y la central
-4. Las aristas representan distancias en kilómetros
-5. Se calcula el MST para minimizar el cableado
-6. Se visualiza la red y se muestran métricas básicas
+Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de soluciones
+basadas en datos. Actualmente me enfoco en el aprendizaje de Python, SQL y herramientas
+relacionadas al análisis y procesamiento de información.
+
+Busco oportunidades como practicante donde pueda aplicar mis conocimientos,
+seguir aprendiendo y aportar valor a través de soluciones tecnológicas.
+La creación de este repositorio fue hecha para poder presentar los proyectos universitarios y avances por cuenta propia en la rama de datos.
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- Python (básico - intermedio)
+- SQL (MySQL)
+- Git y GitHub
+- Power BI (básico)
+- Excel
 
 ---
 
-## Librerías usadas
+## 📈 Actualmente aprendiendo
 
-* numpy
-* matplotlib
-* networkx
-* scikit-learn
-* scipy
+- Python aplicado a datos
+- Optimización de consultas SQL
+- Fundamentos de Data Engineering
 
 ---
 
-## Cómo ejecutar
+## 📫 Contacto
 
-```en la terminal añadir los siguientes comandos:
-pip install numpy matplotlib networkx scikit-learn scipy
-python main.py
-```
-o también puedes instalar las librerías de esta manera en el terminal: 
-
-python -m pip install numpy matplotlib networkx scipy scikit-learn
-
+📧 Email: [jhonchavez11102000@gmail.com]  
+🔗 LinkedIn: [www.linkedin.com/in/jhon-chavez-hancco]
 
 ---
 
-## Resultado
-
-* Un mapa con la red eléctrica optimizada
-* Longitud total del cable (km)
+⭐ Gracias por visitar mi perfil
 * Costo estimado del cableado
 * Información básica de la red
